@@ -18,7 +18,7 @@ I spend most of my time hunting bugs, auditing smart contracts, and writing abou
 - 🔍 Top 100 global researcher on **Yogosha**
 - 🧑‍💻 Discovered **300+ verified vulnerabilities**
 - 💰 Earned **$15,000+** in bug bounties  
-- ☕ Currently hacking on Web3 security + automating pentest workflows  
+- ☕ Currently hacking on Web2 security + building Web3 products
 
 > “Exploit with intent, patch with precision.”
 
