@@ -1,87 +1,95 @@
-# Hi — I’m Anindya Roy 👋
-**Cybersecurity Researcher · Penetration Tester · Bug Bounty Hunter**
+<!-- PROFILE README -->
+<h1 align="center">👋 Hey, I'm Anindya Roy</h1>
+<h3 align="center">Cybersecurity Researcher | Penetration Tester | Bug Bounty Hunter</h3>
 
-[![Email](https://img.shields.io/badge/-Email-black?style=flat&logo=gmail)](mailto:anindyaandy1904@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/arsec/)
-[![X](https://img.shields.io/badge/-X-1DA1F2?style=flat&logo=x)](https://x.com/theteatoast)
-[![Website](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)](https://github.com/ArgyPorgy)
-
----
-
-## About me
-Passionate and results-driven cybersecurity researcher and penetration tester with hands-on experience in web, mobile, and API security. Proven track record of reporting **300+ verified vulnerabilities**, disclosing high-severity CVEs, and ranking among the **Top 100 global researchers** on Yogosha. I focus on high-quality reports, reproducible exploits, and actionable remediation guidance. :contentReference[oaicite:1]{index=1}
-
----
-
-## Quick highlights
-- 🏆 **Top 100** global researcher on Yogosha. :contentReference[oaicite:2]{index=2}  
-- 🔒 Reported **300+ verified vulnerabilities** and disclosed high-severity CVEs (e.g., **CVE-2025-48053**). :contentReference[oaicite:3]{index=3}  
-- 💰 **$15,000+** in cumulative bounty rewards. :contentReference[oaicite:4]{index=4}  
-- 🥇 ETHIndia 2024 & ETHGlobal 2025 Winner; Featured on Microsoft 2024 Leaderboard. :contentReference[oaicite:5]{index=5}
+<p align="center">
+  <a href="mailto:anindyaandy1904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/arsec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="https://x.com/theteatoast"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
+  <a href="https://medium.com/@theteatoast"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
+  <a href="https://github.com/theteatoast"><img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" /></a>
+</p>
 
 ---
 
-## Skills & tools
-**Pentest & Recon:** Burp Suite, Nmap, Metasploit, SQLMap, Nikto, Amass, Gobuster, Nessus.  
-**Web/API Security:** OWASP Top 10, IDOR, RCE, SSRF, CSRF, XXE, JWT, GraphQL.  
-**Mobile:** Static/Dynamic analysis, APK reversing, Frida, MobSF.  
-**Methodologies:** PTES, OWASP WSTG, NIST 800-115, MITRE ATT&CK.  
-**Languages & DevOps:** Python, Bash, JavaScript, Git, Linux, CI/CD for smart contracts. :contentReference[oaicite:6]{index=6}
+### 🧠 About Me
+
+I break things for a living — ethically.  
+Security isn’t just my job, it’s a puzzle I solve every day.  
+I spend most of my time hunting bugs, auditing smart contracts, and writing about what I learn along the way.
+
+- 🔍 Top 100 global researcher on **Yogosha**
+- 🧑‍💻 Discovered **300+ verified vulnerabilities**
+- 💰 Earned **$15,000+** in bug bounties  
+- ☕ Currently hacking on Web3 security + automating pentest workflows  
+
+> “Exploit with intent, patch with precision.”
 
 ---
 
-## Experience (selected)
-**Penetration Tester Intern — Security Lit**  
-*Jul 2024 – Aug 2025*  
-- Led & contributed to 10+ security assessments (web, mobile, APIs).  
-- Reported & triaged 100+ verified vulnerabilities with CVSS and remediation guidance.  
-- Mentored interns; aligned testing to OWASP, PTES, NIST standards. :contentReference[oaicite:7]{index=7}
+### 🧰 Tech Stack
 
-**Security Researcher — Yogosha (Remote)**  
-*Dec 2023 – Present*  
-- Consistently high-quality manual assessments; ranked Top 100. :contentReference[oaicite:8]{index=8}
+**Offensive Security:** Burp Suite, Nmap, SQLMap, Metasploit, Gobuster, Amass, Nessus  
+**Web & API Testing:** OWASP, SSRF, IDOR, RCE, JWT, GraphQL  
+**Smart Contract & Blockchain:** Foundry, Hardhat, Solidity audits  
+**Languages & Tools:** Python, Bash, JavaScript, Git, Linux  
 
 ---
 
-## Projects
-### Myrad (2025) — Data DAO  
-A decentralized data marketplace for secure, transparent, and profitable dataset exchange.  
-Repository: https://github.com/ArgyPorgy/MYrAD :contentReference[oaicite:9]{index=9}
+### 🧩 Featured Projects
 
-### Oswald (2024) — Smart Contract Auditing & Web3 CI/CD  
-DevOps tool for secure on-chain storage, automated auditing, and streamlined EVM deployments.  
-Repository: https://github.com/Devjyoti03/Oswald_test :contentReference[oaicite:10]{index=10}
+| Project | Description | Link |
+|----------|--------------|------|
+| 🧠 **MYrAD** | A Data DAO enabling decentralized, secure dataset exchange. | [github.com/theteatoast/MYrAD](https://github.com/theteatoast/MYrAD) |
+| 🔐 **Oswald** | Smart contract auditing + CI/CD for EVM deployments. | [github.com/Devjyoti03/Oswald_test](https://github.com/Devjyoti03/Oswald_test) |
 
 ---
 
-## Certifications & Achievements
-- CVE-2025-48053 — high-severity Discourse vulnerability. :contentReference[oaicite:11]{index=11}  
-- ETHIndia 2024 & ETHGlobal 2025 — Winner. :contentReference[oaicite:12]{index=12}  
-- Google Cybersecurity Specialization; Google Dev Group Cybersecurity Lead. :contentReference[oaicite:13]{index=13}
+### ✍️ Writeups & Research
+
+I regularly document vulnerabilities, methodologies, and tools I discover.  
+You can find all my public writeups here:
+
+👉 **[medium.com/@theteatoast](https://medium.com/@theteatoast)**  
+
+Some highlights:
+- 🐞 *Exploiting insecure GraphQL endpoints*
+- 🧩 *Smart contract audit postmortems*
+- 🕵️ *API recon automation using Python & Amass*
 
 ---
 
-## How I work
-- Manual-first assessments with automated support.  
-- Clear, reproducible PoCs and remediation steps.  
-- Prioritize impact and low-friction fixes for engineering teams.
+### 🏆 Highlights
+- 🎯 Discovered **CVE-2025-48053** (high-severity in Discourse)
+- 🥇 Winner — **ETHIndia 2024** & **ETHGlobal 2025**
+- 🧑‍🏫 Lead — **Google Developer Group Cybersecurity**
+- 🧾 Featured on Microsoft Security Leaderboard 2024  
 
 ---
 
-## Pinned repos (suggested)
-- `MYrAD` — Data DAO and marketplace.  
-- `Oswald_test` — Smart contract auditing + Web3 CI/CD.  
-- Any writeups or bounty PoCs you want to showcase (create a `writeups/` repo).
+### 🕹️ Currently Building
+- Automating recon pipelines for bug bounty hunting  
+- A community-driven repository of **Web3 exploits**  
+- A minimal web UI for smart contract diff analysis  
 
 ---
 
-## Contact
-- Email: anindyaandy1904@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/arsec/  
-- X: https://x.com/theteatoast
+### 📈 GitHub Stats
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=theteatoast&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=theteatoast&theme=radical" />
+</p>
 
 ---
 
-### Want this README tailored for a repo (project-specific) or for your profile (bio-style with GitHub stats)?  
-Create a `README.md` in the repo and pin the repos you want shown on your profile.
+### 🤝 Let’s Connect
 
+💌 **anindyaandy1904@gmail.com**  
+🔗 **[linkedin.com/in/arsec](https://linkedin.com/in/arsec)**  
+🐦 **[x.com/theteatoast](https://x.com/theteatoast)**  
+📚 **[medium.com/@theteatoast](https://medium.com/@theteatoast)**  
+
+---
+
+⭐ *If you enjoy my work or writeups, consider following me — it helps a lot.*  
