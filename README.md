@@ -1,5 +1,5 @@
 <!-- PROFILE README -->
-<h1 align="center">👋 Hey, I'm Anindya Roy</h1>
+<h1 align="center">👋 Hey, I'm Andy</h1>
 <h3 align="center">Security Researcher and Backend Operations</h3>
 
 <p align="center">
