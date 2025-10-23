@@ -23,39 +23,36 @@ I spend most of my time hunting bugs, auditing smart contracts, and writing abou
 > “Exploit with intent, patch with precision.”
 
 ---
+### 🧰 Tech Stack
 
-## 🧰 Tech Stack
-
-### 🔍 Offensive Security & Recon
-`Burp Suite (Pro)` · `Nmap` · `Masscan` · `Nessus` · `OpenVAS` · `Gobuster` · `ffuf` · `Dirsearch`  
-`Amass` · `Subfinder` · `Assetfinder` · `SQLMap` · `Metasploit` · `curl` · `httpie` · `netcat`
+#### 🔍 Offensive Security & Recon
+Burp Suite (Pro), Nmap, Masscan, Nessus, OpenVAS, Gobuster, ffuf, Dirsearch, Amass, Subfinder, Assetfinder, SQLMap, Metasploit, curl, httpie, netcat
 
 ---
 
 ### 🌐 Web & API Security
-`OWASP Top 10` · `WSTG` · `IDOR` · `SSRF` · `RCE` · `CSRF` · `XSS` · `XXE` · `HTTP Smuggling`  
-`JWT/OAuth` · `GraphQL Security` · `Postman` · `Insomnia` · `Burp` · `mitmproxy` · `proxychains`
+OWASP Top 10, WSTG, IDOR, SSRF, RCE, CSRF, XSS, XXE, HTTP Smuggling, JWT/OAuth, GraphQL Security, Postman, Insomnia, Burp, mitmproxy, proxychains
 
 ---
 
 ### 📱 Mobile & Reverse Engineering
-`Frida` · `Objection` · `MobSF` · `apktool` · `JADX` · `Ghidra` · `ADB` · `Android Studio` · `Hopper`
+Frida, Objection, MobSF, apktool, JADX, Ghidra, ADB, Android Studio, Hopper
 
 ---
 
 ### ⛓️ Smart Contract / Blockchain Dev & Auditing
-`Solidity` · `Vyper` · `Rust` · `Foundry (forge/anvil)` · `Hardhat` · `Truffle` · `Brownie`  
-`OpenZeppelin` · `Ethers.js` · `web3.js` · `wagmi` · `MetaMask` · `Tenderly` · `The Graph` · `IPFS` · `Chainlink`
+Solidity, Vyper, Rust, Foundry (forge/anvil), Hardhat, Truffle, Brownie, OpenZeppelin, Ethers.js, web3.js, wagmi, MetaMask, Tenderly, The Graph, IPFS, Chainlink
 
 ---
 
 ### 💻 Languages & Scripting
-`Python` · `Bash` · `JavaScript` · `TypeScript` · `Rust` · `SQL` · `JSON` · `YAML` · `Solidity`
+Python, Bash, JavaScript, TypeScript, Rust, SQL, JSON, YAML, Solidity
 
 ---
 
 ### 🤝 Collaboration & Productivity
-`Git` · `GitHub` · `Notion` · `Slack`
+Git, GitHub, Notion, Slack
+
 
 
 ---
