@@ -1,9 +1,8 @@
 <!-- PROFILE README -->
 <h1 align="center">👋 Hey, I'm Anindya Roy</h1>
-<h3 align="center">Cybersecurity Researcher | Penetration Tester | Bug Bounty Hunter</h3>
+<h3 align="center">Security Researcher and Backend Operations</h3>
 
 <p align="center">
-  <a href="mailto:anindyaandy1904@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://linkedin.com/in/arsec"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
   <a href="https://x.com/theteatoast"><img src="https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white" /></a>
   <a href="https://medium.com/@theteatoast"><img src="https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white" /></a>
@@ -14,9 +13,7 @@
 
 ### 🧠 About Me
 
-I break things for a living — ethically.  
-Security isn’t just my job, it’s a puzzle I solve every day.  
-I spend most of my time hunting bugs, auditing smart contracts, and writing about what I learn along the way.
+I spend most of my time hunting bugs, auditing smart contracts, and writing about what I learn along the way while building cool stuff.
 
 - 🔍 Top 100 global researcher on **Yogosha**
 - 🧑‍💻 Discovered **300+ verified vulnerabilities**
@@ -40,7 +37,7 @@ I spend most of my time hunting bugs, auditing smart contracts, and writing abou
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🧠 **MYrAD** | A Data DAO enabling decentralized, secure dataset exchange. | [github.com/theteatoast/MYrAD](https://github.com/theteatoast/MYrAD) |
+| 🧠 **MYrAD** | A Data DAO enabling decentralized, secure dataset exchange. | [github.com/theteatoast/MYrAD](https://github.com/ArgyPorgy/MYrAD) |
 | 🔐 **Oswald** | Smart contract auditing + CI/CD for EVM deployments. | [github.com/Devjyoti03/Oswald_test](https://github.com/Devjyoti03/Oswald_test) |
 
 ---
