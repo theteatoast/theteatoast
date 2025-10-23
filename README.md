@@ -37,7 +37,7 @@ I spend most of my time hunting bugs, auditing smart contracts, and writing abou
 
 | Project | Description | Link |
 |----------|--------------|------|
-| 🧠 **MYrAD** | A Data DAO enabling decentralized, secure dataset exchange. | [github.com/theteatoast/MYrAD](https://github.com/ArgyPorgy/MYrAD) |
+| 🧠 **MYrAD** | A blockchain-powered marketplace for tokenizing, trading, and monetizing datasets. MYRAD enables data creators to mint ERC20 tokens representing their datasets, trade them using automated market makers (AMM), and grant dataset access through a burn-to-download mechanism. | [github.com/theteatoast/MYrAD](https://github.com/ArgyPorgy/MYrAD) |
 | 🔐 **Oswald** | Smart contract auditing + CI/CD for EVM deployments. | [github.com/Devjyoti03/Oswald_test](https://github.com/Devjyoti03/Oswald_test) |
 
 ---
@@ -48,11 +48,6 @@ I regularly document vulnerabilities, methodologies, and tools I discover.
 You can find all my public writeups here:
 
 👉 **[medium.com/@theteatoast](https://medium.com/@theteatoast)**  
-
-Some highlights:
-- 🐞 *Exploiting insecure GraphQL endpoints*
-- 🧩 *Smart contract audit postmortems*
-- 🕵️ *API recon automation using Python & Amass*
 
 ---
 
@@ -65,9 +60,8 @@ Some highlights:
 ---
 
 ### 🕹️ Currently Building
-- Automating recon pipelines for bug bounty hunting  
-- A community-driven repository of **Web3 exploits**  
-- A minimal web UI for smart contract diff analysis  
+- MYRAD — Decentralized Data Marketplace
+
 
 ---
 
