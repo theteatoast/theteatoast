@@ -26,10 +26,27 @@ I spend most of my time hunting bugs, auditing smart contracts, and writing abou
 
 ### 🧰 Tech Stack
 
-**Offensive Security:** Burp Suite, Nmap, SQLMap, Metasploit, Gobuster, Amass, Nessus  
-**Web & API Testing:** OWASP, SSRF, IDOR, RCE, JWT, GraphQL  
-**Smart Contract & Blockchain:** Foundry, Hardhat, Solidity audits  
-**Languages & Tools:** Python, Bash, JavaScript, Git, Linux  
+# Offensive Security & Recon
+Burp Suite (Pro) | Nmap | Masscan | Nessus | OpenVAS | Gobuster | ffuf | Dirsearch
+Amass | Subfinder | Assetfinder | SQLMap | Metasploit | curl | httpie | netcat
+
+# Web & API Security
+OWASP Top 10 | WSTG | IDOR | SSRF | RCE | CSRF | XSS | XXE | HTTP Smuggling
+JWT/OAuth | GraphQL Security | Postman | Insomnia | Burp | mitmproxy | proxychains
+
+# Mobile & Reverse Engineering
+Frida | Objection | MobSF | apktool | JADX | Ghidra | ADB | Android Studio | Hopper
+
+# Smart Contract / Blockchain Dev & Auditing
+Solidity | Vyper | Rust | Foundry (forge/anvil) | Hardhat | Truffle | Brownie
+OpenZeppelin | Ethers.js | web3.js | wagmi | MetaMask | Tenderly | The Graph | IPFS | Chainlink
+
+# Languages & Scripting
+Python | Bash | JavaScript / TypeScript | Rust | SQL | JSON | YAML | Solidity
+
+# Collaboration & Productivity
+Git | GitHub | Notion | Slack
+
 
 ---
 
