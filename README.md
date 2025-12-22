@@ -84,12 +84,6 @@ GitHub: https://github.com/theteatoast/Gossipp
 
 ---
 
-## Education
-
-**Maulana Abul Kalam Azad University of Technology, West Bengal**  
-B.Tech in Computer Science and Engineering (2022 to 2026)
-
----
 
 ## Contact
 
