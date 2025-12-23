@@ -25,14 +25,14 @@ Strong focus on practical security, backend reliability, and production ready en
 ## Experience
 
 ### Penetration Tester Intern (2024 to 2025)  
-**Security Lit | Remote**
+**Security Lit**
 
 - Performed security testing across web, mobile, and API based production systems  
 - Discovered and reported **100 plus verified vulnerabilities** including IDOR, SSRF, auth bypass, and logic flaws  
 - Collaborated with backend teams to validate fixes and improve security posture  
 
 ### Security Researcher (2023 to Present)  
-**Yogosha | Remote**
+**Yogosha**
 
 - Ranked among top global researchers for consistent high quality reports  
 - Focused on manual testing of APIs, authentication flows, and business logic issues  
