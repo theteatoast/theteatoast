@@ -14,6 +14,7 @@
 Security Engineer and Backend Developer with hands-on experience securing web, mobile, and API driven systems.  
 Strong focus on practical security, backend reliability, and production ready engineering.
 
+- ETHIndia 2024 & ETHGlobal 2025 Winner
 - Reported **300 plus validated vulnerabilities**
 - Published **CVE 2025 48053** in Discourse
 - Ranked among **Top 100 global researchers on Yogosha**
