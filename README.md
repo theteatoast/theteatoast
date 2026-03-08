@@ -11,7 +11,7 @@
 
 ## About Me
 
-Security Engineer and Backend Developer with hands-on experience securing web, mobile, and API driven systems.  
+Security Engineer, RnD with hands-on experience building and securing web, mobile, and API driven systems.  
 Strong focus on practical security, backend reliability, and production ready engineering.
 
 - ETHIndia 2024 & ETHGlobal 2025 Winner
@@ -25,17 +25,18 @@ Strong focus on practical security, backend reliability, and production ready en
 
 ## Experience
 
-### Penetration Tester Intern (2024 to 2025)  
+### Penetration Tester (2024 to 2025)  
 **Security Lit**
 
 - Performed security testing across web, mobile, and API based production systems  
 - Discovered and reported **100 plus verified vulnerabilities** including IDOR, SSRF, auth bypass, and logic flaws  
-- Collaborated with backend teams to validate fixes and improve security posture  
+- Collaborated with backend teams to validate fixes and improve security posture
+- Mentored 3 interns
 
 ### Security Researcher (2023 to Present)  
 **Yogosha**
 
-- Ranked among top global researchers for consistent high quality reports  
+- Ranked among top 100 global researchers for consistent high quality reports  
 - Focused on manual testing of APIs, authentication flows, and business logic issues  
 
 ---
@@ -43,11 +44,10 @@ Strong focus on practical security, backend reliability, and production ready en
 ## Projects
 
 ### MYRAD (2025)  
-**ZK Proofed Insights Platform**  
-GitHub: https://github.com/Myrad-labs/MYRAD
+**Human Data Platform**  
 
-- Privacy first data rewards platform using zero knowledge proofs  
-- Delivers verifiable insights without exposing user data  
+- Largest source of verifiable human data
+- Myrad lets you earn from your day to day apps without giving up privacy
 
 ### Citadel (2025)  
 **Secure AI Agent Control Plane**  
