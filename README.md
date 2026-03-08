@@ -1,6 +1,6 @@
 # Hi, I am Anindya Roy
 
-### Security Engineer and Backend Developer
+### SecOps and RnD
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsec)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/theteatoast)
