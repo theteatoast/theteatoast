@@ -1,4 +1,4 @@
-# Hi, I am Anindya Roy
+# Hi, I am Andy
 
 ### SecOps and RnD
 
@@ -11,87 +11,12 @@
 
 ## About Me
 
-Security Engineer, RnD with hands-on experience building and securing web, mobile, and API driven systems.  
-Strong focus on practical security, backend reliability, and production ready engineering.
-
-- ETHIndia 2024 & ETHGlobal 2025 Winner
-- Reported **300 plus validated vulnerabilities**
-- Published **CVE 2025 48053** in Discourse
-- Ranked among **Top 100 global researchers on Yogosha**
-- Earned **$15000 plus** from bug bounty programs
-- Worked closely with engineering teams to explain root causes and recommend secure fixes
-
----
-
-## Experience
-
-### Penetration Tester (2024 to 2025)  
-**Security Lit**
-
-- Performed security testing across web, mobile, and API based production systems  
-- Discovered and reported **100 plus verified vulnerabilities** including IDOR, SSRF, auth bypass, and logic flaws  
-- Collaborated with backend teams to validate fixes and improve security posture
-- Mentored 3 interns
-
-### Security Researcher (2023 to Present)  
-**Yogosha**
-
-- Ranked among top 100 global researchers for consistent high quality reports  
-- Focused on manual testing of APIs, authentication flows, and business logic issues  
-
----
-
-## Projects
-
-### MYRAD (2025)  
-**Human Data Platform**  
-
-- Largest source of verifiable human data
-- Myrad lets you earn from your day to day apps without giving up privacy
-
-### Citadel (2025)  
-**Secure AI Agent Control Plane**  
-GitHub: https://github.com/theteatoast/Citadel
-
-- Built governance, security, and cost controls for safe production deployment of AI agents  
-
-### Gossipp (2025)  
-**Anonymous Confessions via x402 on Base**  
-GitHub: https://github.com/theteatoast/Gossipp
-
-- Farcaster Mini App enabling anonymous confessions unlocked through USDC micropayments  
-
----
-
-## Achievements
-
-- CVE 2025 48053: High severity vulnerability in Discourse  
-- Winner at **ETHIndia 2024** and **ETHGlobal 2025**  
-- Earned **$15000 plus** in bug bounty rewards  
-- Fifth place in **Pentathon 2024**  
-- Featured on **Microsoft Security Leaderboard 2024**
-
----
-
-## Technical Skills
-
-- **Network Security**: TCP, UDP, DNS, HTTP, HTTPS, TLS, CDN behavior  
-- **Attack Detection**: DDoS patterns, bot analysis, anomaly detection  
-- **Pentesting Tools**: Burp Suite, Nmap, Metasploit, SQLMap, Amass  
-- **Web and API Security**: OWASP Top 10, IDOR, SSRF, RCE, JWT attacks  
-- **Backend and DevOps**: Node.js, Python automation, REST APIs, CI CD  
-- **Mobile Security**: Frida, MobSF, Android analysis  
-- **Programming**: Python, Bash, JavaScript, SQL  
-
----
+[Proof of Work](https://www.theteatoast.com)
 
 
 ## Contact
 
 - Email: anindyaandy1904@gmail.com  
-- LinkedIn: https://linkedin.com/in/arsec  
-- X: https://x.com/theteatoast  
-- Medium: https://medium.com/@theteatoast  
 
 ---
 
