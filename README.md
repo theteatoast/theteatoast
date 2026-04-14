@@ -10,7 +10,8 @@ I've worked on securing environments across large organizations and specialized 
 
 If you'd like to collaborate, feel free to reach out via [email](mailto:anindyaandy1904@gmail.com)
 
-[Portfolio](https://www.theteatoast.com)
+
+If you like to know more about me: [Portfolio](https://www.theteatoast.com)
 
 ---
 
