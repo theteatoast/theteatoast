@@ -1,9 +1,5 @@
 ### Security and RnD
 
-[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/theteatoast)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=flat&logo=medium&logoColor=white)](https://medium.com/@theteatoast)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/arsec)
-
 ---
 
 I'm a security researcher and builder working across offensive security, AI, and crypto systems. My work focuses on vulnerability research, fuzzing, and building tools and products.
