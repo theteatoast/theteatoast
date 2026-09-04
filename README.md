@@ -2,7 +2,7 @@
 
 ---
 
-I'm a security researcher and builder working across offensive security, AI, and blockchain. My work focuses on vulnerability research, fuzzing, and building tools and products.
+I'm a security researcher and builder working across offensive security, AI, and blockchain. My work focuses on vulnerability research, and building tools and products.
 
 I contribute to open source projects and develop systems around AI agents, on-chain security, and automation.
 
